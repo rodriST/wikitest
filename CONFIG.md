@@ -1,5 +1,7 @@
 # Configuracion
 
-Release 1
+Release 2
 
-Se configura tal que asi
+Se configura tal que asi 
+
+Y metimos cambios en la release 2
